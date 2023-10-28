@@ -1,0 +1,17 @@
+.errortext {
+    color: red;
+}
+
+.quantity {
+    width: 70px;
+    margin-right: 10px;
+}
+
+.centered-value {
+    display: flex;
+    justify-content: center;
+}
+
+.item-product-cart[b-w0ju9ztko7] {
+    padding: 0.9em 0;
+}
